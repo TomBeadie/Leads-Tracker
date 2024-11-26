@@ -2,10 +2,13 @@
   "manifest_version": 3,
   "version": "1.0",
   "name": "Leads Tracker",
-  "author": "Tom B",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "icon.png"
+    "default_icon": "assets/icon16.png"
+  },
+  "icons": {
+    "32": "assets/icon32.png",
+    "16": "assets/icon16.png"
   },
   "permissions": ["tabs"]
 }

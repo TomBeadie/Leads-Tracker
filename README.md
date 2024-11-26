@@ -2,19 +2,15 @@
 
 ---
 
-[Use]()
-
 Chrome extension, save links in browser
-
-# Wireframes and Planning
-
----
 
 # Screenshots
 
 ---
 
-![Favicon]()
+![Favicon](assets/icon32.png)
+
+![Screenshot](assets/ext-screenshot.png)
 
 # Technology
 

@@ -4,9 +4,13 @@ body {
   min-width: 20vw;
   background-color: #14111f;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
+}
+
+.container {
+  padding: 1rem;
 }
 
 input {

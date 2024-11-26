@@ -11,34 +11,43 @@ body {
 
 .container {
   padding: 1rem;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 input {
-  background-color: transparent;
+  background-color: #181828;
   color: white;
   width: 20vw;
   padding: 0.5rem;
   box-sizing: border-box;
-  border: 2px solid;
+  border: 1px solid;
   border-image: linear-gradient(to right, #8d3ad5 0%, #3a4ed5 100%) 1;
-
   margin-bottom: 1rem;
 }
 
 button {
-  background-color: transparent;
+  background-color: #181828;
   color: white;
   width: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0.5rem 1rem;
-  border: 2px solid;
+  border: 1px solid;
   border-image: linear-gradient(to right, #8d3ad5 0%, #3a4ed5 100%) 1;
   border-radius: 0.5rem;
   background-origin: border-box;
   background-clip: content-box, border-box;
   cursor: pointer;
+}
+
+.btn-wrapper {
+  display: flex;
+  gap: 1rem;
 }
 
 ul {

@@ -10,8 +10,6 @@ Chrome extension, save links in browser
 
 ---
 
-[Figma]()
-
 # Screenshots
 
 ---
